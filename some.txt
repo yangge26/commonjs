@@ -1,2 +1,1 @@
-hello,world!
-something is good.
+My name is yang.
